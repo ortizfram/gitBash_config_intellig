@@ -1,4 +1,4 @@
-# gitBash_config_intellig :alien::alien::alien:
+# gitBash_config_ :alien::alien::alien:
 my config for gitbash with intellij
 
 if u have zero idea of gitbash this will help, and its a reminder for me 2. 
