@@ -6,3 +6,5 @@
 	name = melon
 	email = ortizfranco48@gmail.com
 	
+[core]
+	autocrlf = true
